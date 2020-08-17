@@ -1,0 +1,13 @@
+/**
+ Theme Name: Sparkling Child
+ Description: Theme for simple shop tutorial
+ Author: Thach Pham
+ Author URI: https://thachpham.com
+ Template: sparkling
+ 
+ */
+ 
+ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
